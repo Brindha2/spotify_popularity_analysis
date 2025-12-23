@@ -37,9 +37,10 @@ This analysis focuses on **prediction and correlation**, not causation.
 
 The Random Forest model outperformed the baseline linear model:
 
-- **MAE:** XX.XX  
-- **RMSE:** XX.XX  
-- **R²:** 0.XX  
+- **MAE:** 6.61  
+- **RMSE:** 8.43  
+- **R²:** 0.42
+- **Baseline MAE:**6.15
 
 These results indicate that audio features capture some patterns related to popularity, but cannot fully explain it.
 
