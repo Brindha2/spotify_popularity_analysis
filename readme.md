@@ -63,7 +63,7 @@ The Random Forest model could not outperform the baseline linear model indicatin
 ## How to Run
 
 1. Clone the repository  
-2. Ensure `spotify.csv` is placed in the `data/` directory  
+2. Ensure `spotify_synthetic_popularity_dataset.csv` is placed in the `data/` directory  
 3. Open the notebook  
 4. Run all cells top to bottom  
 
