@@ -16,7 +16,7 @@ This analysis focuses on **prediction and correlation**, not causation.
 
 ## Dataset
 
-- Source: Spotify audio feature dataset
+- Source: The dataset used in this project is synthetically generated to resemble Spotify audio features, allowing focus on             the machine-learning workflow rather than data acquisition.
 - Target variable: `popularity`
 - Features include: danceability, energy, loudness, tempo, etc.
 - Dataset location: `data/spotify.csv`
